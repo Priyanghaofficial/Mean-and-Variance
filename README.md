@@ -1,5 +1,5 @@
-                                                                                                                                                   NAME:PRIYANGHA.G
-                                                                                                                                                   REG NO:212223040157
+                                                                                      NAME:PRIYANGHA.G
+                                                                                      REG NO:212223040157
 
 
 # Ex:1 Mean and variance of a discrete  distribution                   
