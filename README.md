@@ -1,5 +1,5 @@
-                                                         NAME:PRIYANGHA.G
-                                                         REG NO:212223040157
+                                                             NAME:PRIYANGHA.G
+                                                             REG NO:212223040157
 
 
 # Ex:1 Mean and variance of a discrete  distribution                   
@@ -79,9 +79,6 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
-
-
-
 # Output : 
 
 ![image](https://github.com/Priyanghaofficial/Mean-and-Variance/assets/147121154/4b423c91-3ab0-45d4-9dd5-1f4581062924)
